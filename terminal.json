@@ -1,0 +1,28 @@
+{
+    "Sessions": [
+        {
+            "Terminal": "RAN",
+            "CMD": "htop"
+        },
+        {
+            "Terminal": "UPF",
+            "CMD": "htop"
+        },
+        {
+            "Terminal": "DNN",
+            "CMD": "htop"
+        },
+        {
+            "Terminal": "BPY-RAN",
+            "CMD": "htop"
+        },
+        {
+            "Terminal": "BPY-DNN",
+            "CMD": "htop"
+        },
+        {
+            "Terminal": "BPY-UPF",
+            "CMD": "htop"
+        }
+    ]
+}
